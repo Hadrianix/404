@@ -7,7 +7,7 @@ function error() {
             renderer: 'svg',
             loop: false,
             autoplay: true,
-            path: '/js/noparts.json'
+            path: './js/noparts.json'
         });
         
       
